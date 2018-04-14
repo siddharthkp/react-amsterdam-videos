@@ -27,6 +27,8 @@
 
 ### React Native Track
 
+Thanks to @JonasWho for this part!
+
 | Speaker    | Title                  | Link |
 |------------|------------------------|------|
 | Leland Richardson | Cross-Language React | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=4m55s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
