@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://react.amsterdam/img/logo.svg" height="100px"/>
   <br><br>
-  <b>Timestamp for [react.amsterdam](react.amsterdam) livestream</b>
+  <b>Timestamp for <a href="https://react.amsterdam">react.amsterdam</a> livestream</b>
   <br><br>
 </p>
 
