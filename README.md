@@ -29,4 +29,12 @@
 
 | Speaker    | Title                  | Link |
 |------------|------------------------|------|
-| help | wanted |  |
+| Leland Richardson | Cross-Language React | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=4m55s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Brent Vatne | React Navigation | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=40m5s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Alexey Kureev | Network Layer in React Native | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=1h46m30s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Nadir Dabit | React Native AR + VR Made Simple | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=2h08m30s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Tereza Sokol | Making Programming for People | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=2h44m15s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Mike Grabowski | Imperative is the new black | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=4h49m15s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Narendra Shetty | Push Notifications with React Native | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=5h19m15s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Rotem Mizrachi-Meidan and Shalom Yerushalmy | Continuous Workflow for a Large React Native App: Mobile At Wix | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=6h15m10s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Vladimir Novick | Controlling Smart Homes With React Native | <a href="https://www.youtube.com/watch?v=N-X3Z5A-pW4&feature=youtu.be&t=6h40m20s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
