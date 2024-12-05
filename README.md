@@ -12,7 +12,7 @@
 
 | Speaker    | Title                  | Link |
 |------------|------------------------|------|
-| Tracy Leet | Reactive Programming Demystified: Drink the Kool-Aid | <a href="https://youtu.be/smBND2pwdUE?t=23m9s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
+| Tracy Lee | Reactive Programming Demystified: Drink the Kool-Aid | <a href="https://youtu.be/smBND2pwdUE?t=23m9s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
 | Michele Bertoli | setState Machine | <a href="https://youtu.be/smBND2pwdUE?t=52m17s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
 | Michel Weststrate | There and back again: grokking state and data | <a href="https://youtu.be/smBND2pwdUE?t=2h2m30s"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
 | Shirley Wu | D3 and React, Together | <a href="https://youtu.be/smBND2pwdUE?t=2h36m"><img height="32px" src="https://www.shareicon.net/data/256x256/2016/08/01/639810_media_512x512.png"/><a/>     |
